@@ -1,0 +1,11 @@
+ul{
+    justify-content: space-around;
+}
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .fashion-dropdown:hover .dropdown-content {
+    display: block;
+  }
